@@ -5,7 +5,7 @@
 */
 
 /* To make this app work, you must replace the text "value" in the following statement with YOUR valid account key */
-$acctKey = 'VALUE'; 
+$acctKey = '3Cxfnjt1ay+I8UjE4zOtQlxYwxU/qDh6HHOlAeCoxQo'; 
 
 //Base Bing URL needed to handle HTTP Requests
 $rootUri = 'https://api.datamarket.azure.com/Bing/Search';
